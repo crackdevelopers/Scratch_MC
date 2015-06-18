@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryColor">#fff0592a</color>
+    <color name="primaryCOlorDark">#ffb0411f</color>
+    <color name="accentColor">#388E3C</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#727272</color>
+    <color name="dividerColor">#B6B6B6</color>
+    <color name="lightPrimaryColor">#b2ebf2</color>
+    <color name="tabsScrollColor">#FFFFFF</color>
+    <color name="materialWhite">#fff9f9f9</color>
+
+
+
+    <!-- Transiction Row !-->
+
+    <color name="amount">#388E3C</color>
+    <color name="date">#388E3C</color>
+    <color name="flowIn">#388E3C</color>
+    <color name="flowOut">#D32F2F</color>
+    <color name="description">#388E3C</color>
+
+</resources>

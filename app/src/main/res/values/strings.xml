@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Money Calendar</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="amount">
+
+        <item>Rs. 4534038</item>
+        <item>Rs. 534038</item>
+        <item>Rs. 534038</item>
+        <item>Rs. 34038</item>
+        <item>Rs. 3534038</item>
+        <item>Rs. 9534038</item>
+        <item>Rs. 834038</item>
+        <item>Rs. 4534038</item>
+        <item>Rs. 40934038</item>
+        <item>Rs. 053038</item>
+
+    </string-array>
+
+    <string-array name="date">
+        <item>2015/02/12</item>
+        <item>2015/02/12</item>
+        <item>2015/02/12</item>
+        <item>2015/02/12</item>
+        <item>2015/02/12</item>
+        <item>2015/02/12</item>
+        <item>2015/02/12</item>
+        <item>2015/02/12</item>
+        <item>2015/02/12</item>
+        <item>2014/04/12</item>
+
+    </string-array>
+
+
+    <string-array name="flow">
+        <item>IN</item>
+        <item>OUT</item>
+        <item>OUT</item>
+        <item>IN</item>
+        <item>IN</item>
+        <item>OUT</item>
+        <item>IN</item>
+        <item>OUT</item>
+        <item>IN</item>
+        <item>IN</item>
+
+    </string-array>
+
+    <string-array name="Description">
+        <item>Raju has taken my rs 5000 for two days</item>
+        <item>Taken from chandar and kept to repo of we five guys</item>
+        <item>Given to Gotze vai of the party when Raju came</item>
+        <item>Raju has taken my rs 5000 for two days</item>
+        <item>Taken from chandar and kept to repo of we five guys</item>
+        <item>Given to Gotze vai of the party when Raju came</item>
+        <item>Raju has taken my rs 5000 for two days</item>
+        <item>Taken from chandar and kept to repo of we five guys</item>
+        <item>Given to Gotze vai of the party when Raju came</item>
+        <item>Taken from raju western union and given to gharbeti</item>
+
+    </string-array>
+    <string name="title_activity_add">Money Calendar</string>
+
+    <string name="hello_world">Hello world!</string>
+
+
+</resources>
